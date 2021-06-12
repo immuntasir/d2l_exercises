@@ -9,4 +9,3 @@ The chapters that we read each week are as follows.
 | Week 1 | Chapter 2 (Preliminaries)| 
 |        | Chapter 3 (Linear Neural Networks)|
 | Week 2 | Chapter 4 (Multilayer Perceptrons)| 
-|        | Chapter 5 (Deep Learning Computation)|
